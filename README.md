@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Cartas de uma Cidade Pós-Maré 🌆🌊
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um microdocumentário fictício em forma de cartas que descrevem um Rio de Janeiro parcialmente submerso em 2040. O projeto junta narrativa intimista e um moodboard visual para mostrar como diferentes formatos podem reforçar a sensação de “fake natty” sem revelar de cara que tudo nasceu de IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **[ChatGPT](https://chat.openai.com)**  para roteirizar as cartas e gerar descrições detalhadas das cenas.
+- **[GPT](https://chat.openai.com)**  (modo imagem) para produzir quatro painéis visuais com estética analógica.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Pedi ao ChatGPT uma linha do tempo dos acontecimentos climáticos e três vozes narrativas diferentes; escolhi a perspectiva da oceanógrafa aposentada.
+2. Reescrevi as cartas com mais ganchos sensoriais (cheiro de maresia, luz refletida) e pedi ao modelo sugestões de enquadramentos para cada trecho.
+3. Transformei essas descrições em prompts multimodais no GPT, solicitando textura de filme 35mm, aberrações cromáticas e pequenas imperfeições típicas de scanners antigos.
+4. Concluí com uma revisão no próprio ChatGPT para alinhar o texto final aos quadros gerados pelo GPT, garantindo sincronia entre narrativa e moodboard.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Script final com 429 palavras dividido em três cartas narrativas.
+- Quatro imagens geradas pelo GPT e refinadas para manter a estética desejada.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Esse projeto me ajudou a entender como a combinação de texto e imagem pode criar uma experiência imersiva, mesmo quando tudo é gerado por IA. A escolha cuidadosa dos detalhes sensoriais no roteiro, aliada à estética visual específica, reforçou a sensação de autenticidade e nostalgia que eu queria transmitir. Além disso, explorar diferentes vozes narrativas me permitiu experimentar como perspectivas variadas podem enriquecer a narrativa, tornando-a mais complexa e envolvente.
